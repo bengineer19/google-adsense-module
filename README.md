@@ -1,6 +1,10 @@
 # Google AdSense
 > Google AdSense integration for Nuxt.js. Advertisements will update whenever the page route changes
 
+## Fork for VST4FREE by Ben
+This is my fork of the official nuxt module, which adds some extra features which aren't available in the original. They weren't accepting/listening to my pull requests, so this is a private version which I can maintain myself.
+
+
 ## Setup
 - Add `@nuxtjs/google-adsense` dependency using yarn or npm to your project
 - Add `@nuxtjs/google-adsense` to `modules` section of `nuxt.config.js`
